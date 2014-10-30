@@ -1,0 +1,54 @@
+.background-image {
+    top: 0px;
+    position: fixed;
+    left:-250px;
+    width: auto;
+    height: auto;
+    z-index: -1;
+    margin-top:-500px;
+}
+
+.profile-summary {
+    background-color: rgba(0, 0, 0, 0.419608);
+    border-radius: 5px;
+    font-family: apertura-condensed-1,apertura-condensed-2, "proxima-nova-1", "proxima-nova-2", Tahoma, Helvetica, Verdana, sans-serif;
+    font-size: 22px;
+    color: #FFF;
+    text-rendering: optimizeLegibility;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+.navbar-default {
+    background-color: rgba(0, 0, 0, 0.419608);
+    border: 0 rgba(0, 0, 0, 0);
+}
+
+.profile-summary .name {
+    font-size: 60px;
+}
+
+.profile-summary .designation {
+    font-size: 21px;
+}
+
+.profile-summary .info-links {
+    font-size: 14px;
+}
+
+.profile-summary .info-links a {
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.profile-summary .info-links a:hover {
+   color: #da5800;
+}
+
+.profile-summary .place {
+    font-size: 16px;
+}
+
+.profile-summary .description {
+    font-size: 16px;
+}
