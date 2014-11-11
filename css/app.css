@@ -39,10 +39,11 @@
 .profile-summary .info-links a {
     font-size: 14px;
     text-decoration: none;
+    color: #00D1FE;
 }
 
 .profile-summary .info-links a:hover {
-   color: #da5800;
+   color: #00a8fc;
 }
 
 .profile-summary .place {
@@ -51,4 +52,14 @@
 
 .profile-summary .description {
     font-size: 16px;
+}
+
+.social-media-icons i {
+    padding-right: 10px;
+    color: #EFEFEF;
+;
+}
+
+.social-media-icons i:hover {
+    color:#FEAE00;
 }
